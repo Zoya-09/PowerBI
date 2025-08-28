@@ -14,8 +14,8 @@
 # 🔍 Key Insights from the Dashboard
 
 - Sales totaled $1.57M with uneven profit distribution.  
-- Office Supplies performed best, while Furniture showed high returns and low margins.  
-- Consumer segment was most profitable compared to Corporate and Home Office.  
+- Office Supplies performed best, but also had highest return.  
+- Consumer segment was the most profitable compared to Corporate and Home Office.  
 - Geographic and shipping mode analysis revealed opportunities for cost optimization and regional strategy.  
 
 # 📈 Dashboard Preview
